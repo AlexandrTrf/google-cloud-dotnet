@@ -12,7 +12,8 @@
       ],
       "dependencies": {},
       "generator": "micro",
-      "protoPath": "google/analytics/admin/v1alpha"
+      "protoPath": "google/analytics/admin/v1alpha",
+      "autoGenerator": "OwlBot"
     },
     {
       "id": "Google.Analytics.Data.V1Beta",
